@@ -1,0 +1,35 @@
+@media (max-width: 48em) {
+  .home {
+    padding-top: 1rem;
+  }
+}
+
+@media (min-width: 48em) {
+  .home {
+    padding-top: 4rem;
+  }
+}
+
+#sign-in {
+  padding-top: 1rem;
+  padding-left: 0;
+  padding-right: 0;
+
+  .form-group {
+    padding-left: 0;
+  }
+}
+
+.home {
+  p, h3 {
+    font-weight: 300;
+  }
+}
+
+a {
+  color: $primary-color;
+
+  &:hover {
+    color: $primary-color-lighter;
+  }
+}

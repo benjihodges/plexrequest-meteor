@@ -1,0 +1,47 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+http
+iron:router
+peerlibrary:xml2js
+u2622:persistent-session
+aslagle:reactive-table
+percolate:synced-cron
+standard-minifiers
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+aldeed:collection2
+aldeed:simple-schema
+iron:core
+fortawesome:fontawesome
+accounts-password
+reactive-var
+dburles:collection-helpers
+alanning:roles
+momentjs:moment
+twbs:bootstrap@4.0.0-alpha
+zimme:active-route
+themeteorchef:bert
+aldeed:autoform
+ongoworks:security
+fourseven:scss
+multiply:iron-router-progress
+useraccounts:bootstrap
+npm-container
+
+meteorhacks:npm
+davidyaha:collection2-migrations
